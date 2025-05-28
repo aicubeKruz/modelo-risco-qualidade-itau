@@ -1,0 +1,54 @@
++-----------------------------------------------------------------------------------+
+|                          DASHBOARD DE QUALIDADE - QUBE                           |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+|  VISÃO GERAL                                                   STATUS: ✅ VERDE  |
+|                                                                                   |
+|  Nome: Qube AICUBE                           Versão: 1.0       Pontuação: 1.00   |
+|  Data da Avaliação: 28/05/2025               Gate Atual: G5                      |
+|                                                                                   |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+|  PONTUAÇÃO POR DIMENSÃO                                                          |
+|                                                                                   |
+|  Bugs:         ■■■■■■■■■■  1.00  ✅                                             |
+|  Performance:  ■■■■■■■■■■  1.00  ✅                                             |
+|  Segurança:    ■■■■■■■■■■  1.00  ✅                                             |
+|  Experiência:  ■■■■■■■■■■  1.00  ✅                                             |
+|                                                                                   |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+|  TENDÊNCIA DE QUALIDADE (ÚLTIMOS 5 GATES)                                        |
+|                                                                                   |
+|  G1: ■■■■■■■■■  1.20  ✅                                                        |
+|  G2: ■■■■■■■■   1.15  ✅                                                        |
+|  G3: ■■■■■■■    1.10  ✅                                                        |
+|  G4: ■■■■■■     1.05  ✅                                                        |
+|  G5: ■■■■■      1.00  ✅                                                        |
+|                                                                                   |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+|  MÉTRICAS DESTACADAS                                                             |
+|                                                                                   |
+|  • Bugs críticos: 0                         • Vulnerabilidades críticas: 0        |
+|  • Tempo resposta P95: 650ms                • NPS: 75                            |
+|  • Cobertura de testes: 94%                 • Taxa de erro do usuário: 0.9%      |
+|                                                                                   |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+|  CRITÉRIOS DE VETO                             APROVAÇÃO DO GATE                 |
+|                                                                                   |
+|  • Vuln. críticas        ✅                   Status: APROVADO                   |
+|  • Tempo resposta P95    ✅                   Data: 28/05/2025                   |
+|  • Bugs críticos         ✅                   Aprovador: Comitê de Governança    |
+|  • Taxa de erro          ✅                   Próximo Gate: G6 (Produção)        |
+|  • Conformidade          ✅                   Data Prevista: 05/06/2025          |
+|                                                                                   |
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+|  PLANO DE AÇÃO                                                                   |
+|                                                                                   |
+|  • 2 ações em andamento (0 bloqueantes, 2 não-bloqueantes)                       |
+|  • Prazo máximo para conclusão: 15/06/2025                                       |
+|                                                                                   |
++-----------------------------------------------------------------------------------+

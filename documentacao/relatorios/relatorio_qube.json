@@ -1,0 +1,52 @@
+{
+  "nome_aplicacao": "Qube AICUBE",
+  "versao": "1.0",
+  "data_avaliacao": "28/05/2025",
+  "resultado": {
+    "pontuacao_total": 1.0,
+    "classificacao": "VERDE (Baixo Risco)",
+    "pontuacoes_dimensoes": {
+      "bugs": 1.0,
+      "performance": 1.0,
+      "seguranca": 1.0,
+      "experiencia": 1.0
+    }
+  },
+  "vetos": [
+    "Taxa de erro em produção >1% para operações críticas"
+  ],
+  "status": "BLOQUEADO",
+  "dados_detalhados": {
+    "bugs": {
+      "densidade_defeitos": 1.2,
+      "cobertura_testes": 94.0,
+      "bugs_criticos": 0.0,
+      "taxa_regressao": 0.5,
+      "mtbf": 980.0
+    },
+    "performance": {
+      "tempo_resposta": 220.0,
+      "percentil_95": 650.0,
+      "utilizacao_recursos": 55.0,
+      "escalabilidade": 8.0,
+      "tempo_inicializacao": 3.8,
+      "throughput": 150.0
+    },
+    "seguranca": {
+      "vulnerabilidades_criticas": 0.0,
+      "vulnerabilidades_totais": 3.0,
+      "owasp_top10": 100.0,
+      "seguranca_dados": 100.0,
+      "autenticacao_autorizacao": 2.0,
+      "pentest": 2.0
+    },
+    "experiencia": {
+      "satisfacao_usuario": 75.0,
+      "taxa_erro_usuario": 1.8,
+      "tempo_conclusao_tarefa": 5.0,
+      "acessibilidade": 96.0,
+      "taxa_abandono": 3.2,
+      "adocao_funcionalidades": 72.0
+    }
+  }
+}
