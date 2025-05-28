@@ -25,7 +25,16 @@ modelo-risco-qualidade-itau/
 │   └── test/java/br/com/itau/governanca/risco/
 │       ├── CalculadoraRiscoTest.java # Testes da calculadora
 │       └── ResultadoAvaliacaoTest.java # Testes dos resultados
-└── pom.xml                           # Configurações do Maven
+├── documentacao/
+│   └── relatorios/
+│       ├── modelo_risco_qualidade_itau.md  # Definição do modelo de risco
+│       ├── calculadora_risco_qualidade.csv # Template para cálculo de risco
+│       ├── template_gate_qualidade.md      # Template para gates de qualidade
+│       ├── avaliacao_qube.csv              # Exemplo de avaliação do Qube
+│       ├── gate_qualidade_qube.md          # Relatório de gate do Qube
+│       ├── dashboard_qube.txt              # Dashboard visual do Qube
+│       └── relatorio_qube*.json            # Relatórios gerados pela avaliação
+└── pom.xml                                 # Configurações do Maven
 ```
 
 ## Funcionalidades
